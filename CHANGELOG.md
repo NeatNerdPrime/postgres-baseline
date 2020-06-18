@@ -1,74 +1,38 @@
-# Change Log
+# Changelog
 
-## [2.0.4](https://github.com/dev-sec/postgres-baseline/tree/2.0.4) (2019-05-08)
-[Full Changelog](https://github.com/dev-sec/postgres-baseline/compare/2.0.3...2.0.4)
+## [0.0.1](https://github.com/NeatNerdPrime/postgres-baseline/tree/0.0.1) (2020-06-18)
 
-**Closed issues:**
-
-- Update supported versions [\#23](https://github.com/dev-sec/postgres-baseline/issues/23)
+[Full Changelog](https://github.com/NeatNerdPrime/postgres-baseline/compare/2.0.3...0.0.1)
 
 **Merged pull requests:**
 
-- Update issue templates [\#29](https://github.com/dev-sec/postgres-baseline/pull/29) ([rndmh3ro](https://github.com/rndmh3ro))
-- Update baseline title [\#27](https://github.com/dev-sec/postgres-baseline/pull/27) ([chris-rock](https://github.com/chris-rock))
-- allows patch levels \(ie 9.5.14\) [\#26](https://github.com/dev-sec/postgres-baseline/pull/26) ([ojongerius](https://github.com/ojongerius))
-- Fix \#23 - update supported versions [\#25](https://github.com/dev-sec/postgres-baseline/pull/25) ([pmav99](https://github.com/pmav99))
+- \[pull\] master from dev-sec:master [\#2](https://github.com/NeatNerdPrime/postgres-baseline/pull/2) ([pull[bot]](https://github.com/apps/pull))
+- \[pull\] master from dev-sec:master [\#1](https://github.com/NeatNerdPrime/postgres-baseline/pull/1) ([pull[bot]](https://github.com/apps/pull))
 
-## [2.0.3](https://github.com/dev-sec/postgres-baseline/tree/2.0.3) (2017-12-01)
-[Full Changelog](https://github.com/dev-sec/postgres-baseline/compare/2.0.2...2.0.3)
+## [2.0.3](https://github.com/NeatNerdPrime/postgres-baseline/tree/2.0.3) (2017-12-01)
 
-**Merged pull requests:**
+[Full Changelog](https://github.com/NeatNerdPrime/postgres-baseline/compare/2.0.2...2.0.3)
 
-- make sure attributes are strings [\#22](https://github.com/dev-sec/postgres-baseline/pull/22) ([arlimus](https://github.com/arlimus))
+## [2.0.2](https://github.com/NeatNerdPrime/postgres-baseline/tree/2.0.2) (2017-06-27)
 
-## [2.0.2](https://github.com/dev-sec/postgres-baseline/tree/2.0.2) (2017-06-27)
-[Full Changelog](https://github.com/dev-sec/postgres-baseline/compare/2.0.1...2.0.2)
+[Full Changelog](https://github.com/NeatNerdPrime/postgres-baseline/compare/2.0.1...2.0.2)
 
-**Merged pull requests:**
+## [2.0.1](https://github.com/NeatNerdPrime/postgres-baseline/tree/2.0.1) (2017-05-08)
 
-- inspec check fix [\#21](https://github.com/dev-sec/postgres-baseline/pull/21) ([chris-rock](https://github.com/chris-rock))
+[Full Changelog](https://github.com/NeatNerdPrime/postgres-baseline/compare/2.0.0...2.0.1)
 
-## [2.0.1](https://github.com/dev-sec/postgres-baseline/tree/2.0.1) (2017-05-08)
-[Full Changelog](https://github.com/dev-sec/postgres-baseline/compare/2.0.0...2.0.1)
+## [2.0.0](https://github.com/NeatNerdPrime/postgres-baseline/tree/2.0.0) (2017-01-05)
 
-**Merged pull requests:**
+[Full Changelog](https://github.com/NeatNerdPrime/postgres-baseline/compare/1.1.0...2.0.0)
 
-- update rubocop dependency [\#28](https://github.com/dev-sec/postgres-baseline/pull/28) ([chris-rock](https://github.com/chris-rock))
-- update metadata [\#19](https://github.com/dev-sec/postgres-baseline/pull/19) ([chris-rock](https://github.com/chris-rock))
-- restrict ruby testing to version 2.3.3 and update gemfile [\#18](https://github.com/dev-sec/postgres-baseline/pull/18) ([atomic111](https://github.com/atomic111))
-- adjust the service for each os type and correct the control 10 [\#16](https://github.com/dev-sec/postgres-baseline/pull/16) ([atomic111](https://github.com/atomic111))
-- remove the sudo command and remove duplicate control [\#15](https://github.com/dev-sec/postgres-baseline/pull/15) ([atomic111](https://github.com/atomic111))
+## [1.1.0](https://github.com/NeatNerdPrime/postgres-baseline/tree/1.1.0) (2015-10-15)
 
-## [2.0.0](https://github.com/dev-sec/postgres-baseline/tree/2.0.0) (2017-01-05)
-[Full Changelog](https://github.com/dev-sec/postgres-baseline/compare/1.1.0...2.0.0)
+[Full Changelog](https://github.com/NeatNerdPrime/postgres-baseline/compare/1.0.0...1.1.0)
 
-**Merged pull requests:**
+## [1.0.0](https://github.com/NeatNerdPrime/postgres-baseline/tree/1.0.0) (2014-08-13)
 
-- 2.0.0 [\#14](https://github.com/dev-sec/postgres-baseline/pull/14) ([chris-rock](https://github.com/chris-rock))
-- Migrate to InSpec [\#13](https://github.com/dev-sec/postgres-baseline/pull/13) ([atomic111](https://github.com/atomic111))
-
-## [1.1.0](https://github.com/dev-sec/postgres-baseline/tree/1.1.0) (2015-10-15)
-[Full Changelog](https://github.com/dev-sec/postgres-baseline/compare/1.0.0...1.1.0)
-
-**Merged pull requests:**
-
-- adapt to latest robocop style [\#12](https://github.com/dev-sec/postgres-baseline/pull/12) ([chris-rock](https://github.com/chris-rock))
-- update urls [\#11](https://github.com/dev-sec/postgres-baseline/pull/11) ([chris-rock](https://github.com/chris-rock))
-- add json format option [\#10](https://github.com/dev-sec/postgres-baseline/pull/10) ([atomic111](https://github.com/atomic111))
-- Update common [\#9](https://github.com/dev-sec/postgres-baseline/pull/9) ([arlimus](https://github.com/arlimus))
-- update to serverspec2 [\#8](https://github.com/dev-sec/postgres-baseline/pull/8) ([ehaselwanter](https://github.com/ehaselwanter))
-- Update common [\#7](https://github.com/dev-sec/postgres-baseline/pull/7) ([arlimus](https://github.com/arlimus))
-- updating common files [\#6](https://github.com/dev-sec/postgres-baseline/pull/6) ([arlimus](https://github.com/arlimus))
-- install server and apply hardening in seperate steps [\#5](https://github.com/dev-sec/postgres-baseline/pull/5) ([chris-rock](https://github.com/chris-rock))
-- bugfix: lint error [\#4](https://github.com/dev-sec/postgres-baseline/pull/4) ([chris-rock](https://github.com/chris-rock))
-- add ssl test back in for 'off' setting [\#3](https://github.com/dev-sec/postgres-baseline/pull/3) ([ehaselwanter](https://github.com/ehaselwanter))
-
-## [1.0.0](https://github.com/dev-sec/postgres-baseline/tree/1.0.0) (2014-08-13)
-**Merged pull requests:**
-
-- version 0.9 of tests, disabled ssl check for now as it requires more work on chef and puppet with redhat derivates [\#2](https://github.com/dev-sec/postgres-baseline/pull/2) ([ehaselwanter](https://github.com/ehaselwanter))
-- first pass of postgres hardening requirement tests [\#1](https://github.com/dev-sec/postgres-baseline/pull/1) ([ehaselwanter](https://github.com/ehaselwanter))
+[Full Changelog](https://github.com/NeatNerdPrime/postgres-baseline/compare/3bad2740268b24fc8af9df23f1f2bdebce3ecce2...1.0.0)
 
 
 
-\* *This Change Log was automatically generated by [github_changelog_generator](https://github.com/skywinder/Github-Changelog-Generator)*
+\* *This Changelog was automatically generated by [github_changelog_generator](https://github.com/github-changelog-generator/github-changelog-generator)*
